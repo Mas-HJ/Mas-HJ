@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Mas Joobeh</h1>                                                                                                                                                                               
 <h3 align="center">Full-Stack Developer | Cloud-Native | AWS | DevOps-Minded</h3>                                                                                                                                           
-                                                                                                                                                                                                                          
----                                                                                                                                                                                                                         
-                                                                                                                                                                                                                          
-### 🚀 About Me                                                                                                                                                                                                             
-Full-stack engineer with 7+ years of experience building scalable backend services, modern React/Next.js frontends, and cloud-native architectures using AWS. Passionate about system design, automation, performance       
-optimization, and crafting high-quality software.                                                                                                                                                                           
+                                                                                                                                                                                                                        
+---                                                                                
+
+### 🚀 About Me
+Full-stack engineer with 6+ years of experience building scalable backend services, modern React/Next.js frontends, and cloud-native architectures using AWS. Passionate about system design, automation, performance
+optimization, and crafting high-quality software.
 
 Love turning ideas into production-ready solutions — from UI to backend to infrastructure.
 
@@ -17,13 +17,13 @@ Love turning ideas into production-ready solutions — from UI to backend to inf
 TypeScript • JavaScript • Python • Bash
 
 **Backend:**
-Node.js • Express.js • Nest.js • REST APIs • WebSockets • Auth0
+Node.js • Express.js • Nest.js • REST APIs • WebSockets • Auth0 • BullMQ
 
 **Frontend:**
 React • Next.js • Redux • MobX • Tailwind • Storybook • SSR
 
-**Databases & Cache:**
-PostgreSQL • DynamoDB • MySQL • MongoDB • Redis
+**Databases & ORMs:**
+PostgreSQL • DynamoDB • MySQL • MongoDB • Redis • Prisma
 
 **AWS & Cloud:**
 Lambda • ECS (Fargate) • API Gateway • S3 • DynamoDB
