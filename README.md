@@ -42,6 +42,7 @@ TDD • DDD • Monorepo • NX • Rollup • Webpack
 |--------|-------------|------|
 | 🚀 [**WebhookVault**](https://github.com/Mas-HJ/webhook-vault) | Reliable webhook delivery platform with automatic retries, HMAC signatures, idempotency keys, and real-time monitoring dashboard | NestJS • Next.js • BullMQ • PostgreSQL • Redis • Prisma |
 | 🚀 [**Realtime Dashboard**](https://github.com/Mas-HJ/realtime-dashboard) | A real-time data visualization dashboard for CPU, Memory, Requests/sec, Active Connections | React • Express • Socket.io • Redis • Recharts |
+| 🚀 [**3 Cups Game**](https://github.com/Mas-HJ/3CupsGame) | A classic shell game. Track the ball hidden under one of three cups as they shuffle around, then pick the right cup. | React • Typescript • Jest |
 > More projects coming soon…
 
 ---
