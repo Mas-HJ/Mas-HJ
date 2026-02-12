@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mas Joobeh</h1>                                                                                                                                                                               
-<h3 align="center">Full-Stack Developer | Cloud-Native | AWS | DevOps-Minded</h3>                                                                                                                                           
+<h3 align="center">Full-Stack Developer</h3>                                                                                                                                           
                                                                                                                                                                                                                         
 ---                                                                                
 
@@ -40,9 +40,8 @@ TDD • DDD • Monorepo • NX • Rollup • Webpack
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚀 [**WebhookVault**](https://github.com/Mas-HJ/webhook-vault) | Reliable webhook delivery platform with automatic retries, HMAC signatures, idempotency keys, and real-time monitoring dashboard | NestJS • Next.js •
-BullMQ • PostgreSQL • Redis • Prisma |
-
+| 🚀 [**WebhookVault**](https://github.com/Mas-HJ/webhook-vault) | Reliable webhook delivery platform with automatic retries, HMAC signatures, idempotency keys, and real-time monitoring dashboard | NestJS • Next.js • BullMQ • PostgreSQL • Redis • Prisma |
+| 🚀 [**Realtime Dashboard**](https://github.com/Mas-HJ/realtime-dashboard) | A real-time data visualization dashboard for CPU, Memory, Requests/sec, Active Connections | React • Express • Socket.io • Redis • Recharts |
 > More projects coming soon…
 
 ---
@@ -64,7 +63,7 @@ BullMQ • PostgreSQL • Redis • Prisma |
 ---
 
 ### 🐳 Fun Fact
-When I'm not coding — I'm gaming, watching films, or diving into new tech ideas.
+When I'm not coding, I'm gaming, watching films, or diving into new tech ideas.
 
 ---
 ⭐ **Feel free to check my repositories, open issues, and collaborate!**
