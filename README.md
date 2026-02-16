@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I'm Mas Joobeh</h1>                                                                                                                                                                               
+<h1 align="center">Mas Joobeh</h1>                                                                                                                                                                               
 <h3 align="center">Full-Stack Developer</h3>                                                                                                                                           
                                                                                                                                                                                                                         
 ---                                                                                
 
-### 🚀 About Me
+### About Me
 Full-stack engineer with 6+ years of experience building scalable backend services, modern React/Next.js frontends, and cloud-native architectures using AWS. Passionate about system design, automation, performance
 optimization, and crafting high-quality software.
 
@@ -36,18 +36,18 @@ TDD • DDD • Monorepo • NX • Rollup • Webpack
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚀 [**WebhookVault**](https://github.com/Mas-HJ/webhook-vault) | Reliable webhook delivery platform with automatic retries, HMAC signatures, idempotency keys, and real-time monitoring dashboard | NestJS • Next.js • BullMQ • PostgreSQL • Redis • Prisma |
-| 🚀 [**Realtime Dashboard**](https://github.com/Mas-HJ/realtime-dashboard) | A real-time data visualization dashboard for CPU, Memory, Requests/sec, Active Connections | React • Express • Socket.io • Redis • Recharts |
-| 🚀 [**3 Cups Game**](https://github.com/Mas-HJ/3CupsGame) | A classic shell game. Track the ball hidden under one of three cups as they shuffle around, then pick the right cup. | React • Typescript • Jest |
+| [**WebhookVault**](https://github.com/Mas-HJ/webhook-vault) | Reliable webhook delivery platform with automatic retries, HMAC signatures, idempotency keys, and real-time monitoring dashboard | NestJS • Next.js • BullMQ • PostgreSQL • Redis • Prisma |
+| [**Realtime Dashboard**](https://github.com/Mas-HJ/realtime-dashboard) | A real-time data visualization dashboard for CPU, Memory, Requests/sec, Active Connections | React • Express • Socket.io • Redis • Recharts |
+| [**3 Cups Game**](https://github.com/Mas-HJ/3CupsGame) | A classic shell game. Track the ball hidden under one of three cups as they shuffle around, then pick the right cup. | React • Typescript • Jest |
 > More projects coming soon…
 
 ---
 
-### 🏗 What I'm learning & improving
+### What I'm learning & improving
 - AWS architecture patterns
 - Infrastructure as Code with CDK/Terraform
 - CI/CD pipelines & deployment automation
@@ -55,7 +55,7 @@ TDD • DDD • Monorepo • NX • Rollup • Webpack
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 📍 Amsterdam, Netherlands
 📧 masmas.mhj@gmail.com
@@ -63,8 +63,8 @@ TDD • DDD • Monorepo • NX • Rollup • Webpack
 
 ---
 
-### 🐳 Fun Fact
+### Fun Fact
 When I'm not coding, I'm gaming, watching films, or diving into new tech ideas.
 
 ---
-⭐ **Feel free to check my repositories, open issues, and collaborate!**
+**Feel free to check my repositories, open issues, and collaborate!**
