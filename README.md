@@ -58,7 +58,9 @@ TDD • DDD • Monorepo • NX • Rollup • Webpack
 ### Contact Me
 
 📍 Amsterdam, Netherlands
+
 📧 masmas.mhj@gmail.com
+
 🔗 LinkedIn: [linkedin.com/in/mas-hosseini-joobeh](https://linkedin.com/in/mas-hosseini-joobeh)
 
 ---
