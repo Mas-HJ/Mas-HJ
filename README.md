@@ -7,7 +7,7 @@
 Full-stack engineer with 6+ years of experience building scalable backend services, modern React/Next.js frontends, and cloud-native architectures using AWS. Passionate about system design, automation, performance
 optimization, and crafting high-quality software.                                                                                                                                                                           
  
-Love turning ideas into production-ready solutions — from UI to backend to infrastructure.                                                                                                                                  
+Love turning ideas into production-ready solutions from UI to backend to infrastructure.                                                                                                                                  
                                                           
 ---                                                                                                                                                                                                                         
                                                           
